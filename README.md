@@ -23,13 +23,13 @@ Recipe Vault is not just a recipe book—it’s a community hub for culinary cre
 ## 📸 Screenshots
 
 ### 🔑 Login/Signup Page
-![Login Page](screenshots/rs1.PNG)
+![Login Page](screenshots/rs2.PNG)
 
 ### 🍴 Login Tab
 ![Login Tab](screenshots/rs3.PNG)
 
 ### 🏠 Home Page
-![Home Page](screenshots/rs2.PNG)
+![Home Page](screenshots/rs1.PNG)
 
 ### ➕ Add Recipe
 ![Create Recipe](screenshots/rs4.PNG)
