@@ -1,4 +1,4 @@
-📖 Recipe Vault – Your Personal Hub for Cooking Inspiration
+📖 Recipe Vault – Your Personal Hub for Cooking Inspiration (Recipe Management System Web App )
 
 Recipe Vault is a modern recipe-sharing platform designed for food lovers, home cooks, and culinary explorers. It allows users to create, share, and discover recipes in an easy and engaging way. Each recipe includes detailed ingredients, step-by-step instructions, and optional images to make cooking more enjoyable.
 
@@ -20,4 +20,17 @@ Key Features:
 
 Recipe Vault is not just a recipe book—it’s a community hub for culinary creativity, making it easy to preserve your favorite dishes and get inspired by others.
 
+## 📸 Screenshots
+
+### 🔑 Login/Signup Page
+![Login Page](screenshots/rs1.png)
+
+### 🍴 Login Tab
+![Login Tab](assets/rs3.png)
+
+### 🏠 Home Page
+![Home Page](assets/rs2.png)
+
+### ➕ Add Recipe
+![Create Recipe](assets/rs4.png)
 
