@@ -20,6 +20,31 @@ Key Features:
 
 Recipe Vault is not just a recipe book—it’s a community hub for culinary creativity, making it easy to preserve your favorite dishes and get inspired by others.
 
+
+## 🚀 Tech Stack
+
+### Backend
+- **Java 17+** - Primary programming language
+- **Spring Boot 3.x** - Application framework
+- **Spring Data JPA** - Database ORM and persistence
+- **Spring Security** - Authentication and authorization
+- **MySQL 8.0** - Relational database
+- **Maven** - Dependency management and build tool
+- **JUnit 5 & Mockito** - Unit testing
+
+### Frontend
+- **React 18** (or Vue.js 3 / Angular 15) - Frontend framework
+- **TypeScript** - Type-safe JavaScript
+- **Bootstrap 5** / **Tailwind CSS** - UI styling and components
+- **Axios** - HTTP client for API calls
+- **React Router** / **Vue Router** / **Angular Router** - Client-side routing
+- **React Hook Form** / **Formik** - Form management (if using React)
+
+### Development & Tools
+- **Git & GitHub** - Version control and collaboration
+- **Postman** / **Insomnia** - API testing
+- **Spring Tool Suite** / **VS Code** - Development IDEs
+
 ## 📸 Screenshots
 
 ### 🔑 Login/Signup Page
